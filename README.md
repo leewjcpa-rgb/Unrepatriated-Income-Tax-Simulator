@@ -186,9 +186,7 @@ py -m pytest -q
 
 배포가 완료되면 아래에 실제 웹앱 주소를 추가할 수 있습니다.
 
-```markdown
 [웹앱 바로 실행하기](https://unrepatriated-income-tax-simulator-crmca5al7cr9qvffefjsd2.streamlit.app/)
-```
 
 # 핵심 산식
 
