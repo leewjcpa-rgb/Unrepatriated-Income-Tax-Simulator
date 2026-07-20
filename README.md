@@ -4,7 +4,7 @@
 
 > 모든 금액 단위: **백만원**  
 > 법령 기준일: **2026-07-20**  
-> Version: **0.2.1**
+> [웹앱 바로 실행하기](https://unrepatriated-income-tax-simulator-crmca5al7cr9qvffefjsd2.streamlit.app/)
 
 ## 주요 기능
 
