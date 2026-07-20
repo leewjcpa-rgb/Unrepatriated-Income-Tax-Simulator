@@ -54,7 +54,6 @@ Unrepatriated-Income-Tax-Simulator/
 ```
 
 # 로컬 실행 방법
-[웹앱 바로 실행하기](https://unrepatriated-income-tax-simulator-crmca5al7cr9qvffefjsd2.streamlit.app/)
 
 아래 설명은 **Windows와 VS Code 기준**입니다.
 
@@ -178,20 +177,6 @@ py -m pytest -q
 ```text
 5 passed
 ```
-
-# Streamlit Community Cloud 배포
-
-1. 프로젝트 파일을 GitHub 저장소에 업로드합니다.
-2. Streamlit Community Cloud에 로그인합니다.
-3. 해당 GitHub 저장소를 선택합니다.
-4. Main file path를 `streamlit_app.py`로 지정합니다.
-5. Deploy를 누릅니다.
-
-`requirements.txt`가 저장소에 포함되어 있어 배포 환경에서 필요한 패키지가 자동으로 설치됩니다.
-
-배포가 완료되면 아래에 실제 웹앱 주소를 추가할 수 있습니다.
-
-[웹앱 바로 실행하기](https://unrepatriated-income-tax-simulator-crmca5al7cr9qvffefjsd2.streamlit.app/)
 
 # 핵심 산식
 
