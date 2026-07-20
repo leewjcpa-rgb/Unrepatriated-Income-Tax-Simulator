@@ -142,7 +142,3 @@ pytest -q
   https://www.law.go.kr/LSW/lsLawLinkInfo.do?chrClsCd=010202&lsJoLnkSeq=1000123033
 - Streamlit 공식 문서  
   https://docs.streamlit.io/
-
-## 면접용 한 문장
-
-> 미환류소득 산식만 계산하는 데 그치지 않고, 투자·배당·임금·상생협력 자료를 세법상 잠정 인정금액으로 변환한 뒤 사용자가 직접 설정한 기업소득 시나리오별 당기 예상 미환류소득을 비교하도록 만든 Tax Planning 보조도구입니다.
