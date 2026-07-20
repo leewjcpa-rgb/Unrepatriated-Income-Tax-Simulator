@@ -50,6 +50,7 @@ Unrepatriated-Income-Tax-Simulator/
 ```
 
 # 로컬 실행 방법
+[웹앱 바로 실행하기](https://unrepatriated-income-tax-simulator-crmca5al7cr9qvffefjsd2.streamlit.app/)
 
 아래 설명은 **Windows와 VS Code 기준**입니다.
 
@@ -116,8 +117,6 @@ py -m pip install -r requirements.txt
 이미 설치된 패키지는 `Requirement already satisfied`로 표시될 수 있으며 정상입니다.
 
 ## 5. 앱 실행
-[웹앱 바로 실행하기](https://unrepatriated-income-tax-simulator-crmca5al7cr9qvffefjsd2.streamlit.app/)
-
 
 다음 명령을 입력합니다.
 
