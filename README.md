@@ -140,19 +140,6 @@ VS Code 터미널에서 다음 키를 누릅니다.
 Ctrl + C
 ```
 
-## 선택사항: 가상환경 사용
-
-다른 Python 프로젝트와 패키지가 섞이지 않도록 하려면 가상환경을 사용할 수 있습니다.
-
-```powershell
-py -m venv .venv
-Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
-.\.venv\Scripts\Activate.ps1
-py -m pip install -r requirements.txt
-py -m streamlit run streamlit_app.py
-```
-
-정상적으로 활성화되면 터미널 앞에 `(.venv)`가 표시됩니다.
 
 ## macOS / Linux 실행
 
