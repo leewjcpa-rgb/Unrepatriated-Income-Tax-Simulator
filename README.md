@@ -2,9 +2,13 @@
 
 예상 기업소득과 투자·배당·임금증가·상생협력 계획을 입력하면 투자포함형과 투자제외형의 **당기 예상 미환류소득**을 비교할 수 있는 Streamlit 기반 Tax Planning 보조도구입니다.
 
+## 🚀 웹앱 바로 실행
+
+**[미환류소득 시나리오 프로그램 열기](https://unrepatriated-income-tax-simulator-crmca5al7cr9qvffefjsd2.streamlit.app/)**
+
 > 모든 금액 단위: **백만원**  
 > 법령 기준일: **2026-07-20**  
-> [웹앱 바로 실행하기](https://unrepatriated-income-tax-simulator-crmca5al7cr9qvffefjsd2.streamlit.app/)
+> Version: **0.2.1**
 
 ## 주요 기능
 
